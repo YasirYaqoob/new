@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //commet
         t= (EditText) findViewById(R.id.text);
+        //yasir
     }
 }
