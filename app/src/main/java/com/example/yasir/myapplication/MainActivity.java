@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //commet
         t= (EditText) findViewById(R.id.text);
         //yasir
-        //yair
+       
     }
 }
